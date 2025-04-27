@@ -1,0 +1,11 @@
+@echo off
+curl -o Vikni_glasno.wav "https://drive.google.com/uc?export=download&id=0B1CpLmEJu_d1cVlkZ3k5eVZxbHc"
+curl -o vangelis.mp3 "https://drive.google.com/uc?export=download&id=0B1CpLmEJu_d1T1hNYnJrTnZVRkE"
+curl -o swiftswords_ext.mp3 "https://drive.google.com/uc?export=download&id=0B1CpLmEJu_d1Nkk5dTJfZFk3TTg"
+curl -o Prstima_pucketaj.wav "https://drive.google.com/uc?export=download&id=0B1CpLmEJu_d1Q1RNNGFZbmExNkU"
+curl -o Lupi_dlanom.wav "https://drive.google.com/uc?export=download&id=0B1CpLmEJu_d1Z0tlRVJURUhTeUk"
+curl -o gangnam.wav "https://drive.google.com/uc?export=download&id=0B1CpLmEJu_d1NkhBcDhVNHdCTk0"
+curl -o eyesOfTheTiger.mp3 "https://drive.google.com/uc?export=download&id=0B1CpLmEJu_d1VERWWXRpcFI2bWM"
+curl -o evolution_of_dance_SHORT.mp3 "https://drive.google.com/uc?export=download&id=0B1CpLmEJu_d1b1JFZ3lRWXF4bWs"
+curl -o court-boom.wav "https://drive.google.com/uc?export=download&id=0B1CpLmEJu_d1N0x2YUZWOHVVUXM"
+curl -o caravanPalace.wav "https://drive.google.com/uc?export=download&id=0B1CpLmEJu_d1RUFUZDkwVktrVDA"
